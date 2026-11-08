@@ -23,10 +23,10 @@ Les grands modèles de langage parlent-ils kabyle (taqbaylit) ? Un benchmark ouv
 
 ### Boîte à outils
 
-**Développement** : .NET · NestJS · React · TypeScript · Python
-**Architecture** : microservices · RabbitMQ · Keycloak
-**DevOps** : Docker · Kubernetes · Argo CD · GitHub Actions · Grafana
-**IA** : LLM · agents · LangChain · RAG · fine-tuning QLoRA
+- **Développement** : .NET · NestJS · React · TypeScript · Python
+- **Architecture** : microservices · RabbitMQ · Keycloak
+- **DevOps** : Docker · Kubernetes · Argo CD · GitHub Actions · Grafana
+- **IA** : LLM · agents · LangChain · RAG · fine-tuning QLoRA
 
 ---
 
