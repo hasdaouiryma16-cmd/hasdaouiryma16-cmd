@@ -30,4 +30,4 @@ Les grands modèles de langage parlent-ils kabyle (taqbaylit) ? Un benchmark ouv
 
 ---
 
-<sub>ⵜⴰⵏⵎⵉⵔⵜ · Tanemmirt, merci de votre visite !</sub>
+<sub>Merci de votre visite !</sub>
