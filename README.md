@@ -1,5 +1,4 @@
 ## Salut ! Je suis Ryma 👋
-
 Ingénieure études et développement en alternance chez **SFR Business**. Je conçois et développe des applications full-stack, de l'architecture logicielle jusqu'au déploiement, avec un intérêt particulier pour le **DevOps** et l'**intégration de l'IA** (LLM, agents).
 
 🌐 [Portfolio](https://portfolio-ryma.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/ryma-hasdaoui-6863932b6/)
